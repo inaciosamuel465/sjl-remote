@@ -1,0 +1,7 @@
+{
+  "name": "SJL TV Remote",
+  "description": "A premium web-based remote control interface for Android TV and TCL devices. Features device discovery simulation, touch controls, and app launching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
